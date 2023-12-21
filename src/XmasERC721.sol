@@ -83,4 +83,13 @@ contract XmasERC721 is ImmutableERC721 {
         }
         mintedAlready[_to] = true;
     }
+
+
+    function pause() external onlyRole(PAUSER_ROLE) {
+        paused = true;
+    }
+
+    function unpause() external onlyRole(PAUSER_ROLE) {
+        paused = false;
+    }
 }
