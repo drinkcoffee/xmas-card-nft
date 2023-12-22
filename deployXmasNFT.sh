@@ -8,7 +8,7 @@ export ALLOWLIST=
 export ROLEADMIN=0x0E2D55943f4EF07c336C12A85d083c20FF189182
 export MINTADMIN=0x0E2D55943f4EF07c336C12A85d083c20FF189182
 export PAUSEADMIN=0x0E2D55943f4EF07c336C12A85d083c20FF189182
-export BASEURI="https://github.com/drinkcoffee/xmas-card-nft/"
+export BASEURI="https://github.com/drinkcoffee/xmas-card-nft/blob/main/card/It%20take%20a%20village%20to%20make%20a%20success%2C%20thank%20you.%20Long%20live%20mainnet!.png"
 export CONTRACTURI="https://github.com/drinkcoffee/xmas-card-nft/"
 export ROYALTYRECEIVER=0xE4A9125dB6A2E14459C7cF9670d702A73397551d
 # 2000 means 20.00%
