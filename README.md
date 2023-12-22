@@ -1,16 +1,1 @@
-# xmas-card-nft
-
-
-
-
-
-
-# setup
-
-```forge install OpenZeppelin/openzeppelin-contracts@v4.9.5```
-
-```forge install OpenZeppelin/openzeppelin-contracts-upgradeable@v4.9.5```
-
-```forge install estarriolvetch/solidity-bits```
-
-```forge install GNSPS/solidity-bytes-utils```
+![It take a village to make a success, thank you. Long live mainnet!](./card/It%20take%20a%20village%20to%20make%20a%20success%2C%20thank%20you.%20Long%20live%20mainnet%21.png)
